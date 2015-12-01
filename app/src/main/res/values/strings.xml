@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parse</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_signup">LoginSignupActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_dispatchActivity">DispatchActivity</string>
+    <string name="logout">logout</string>
+    <string name="post">post</string>
+    <string name="title_activity_post">PostActivity</string>>
+</resources>
